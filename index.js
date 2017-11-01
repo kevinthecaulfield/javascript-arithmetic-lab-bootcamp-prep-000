@@ -1,6 +1,6 @@
-var a = 3
-var b = 5
+a = 3
+b = 5
 
 function add() {
-  add(3, 5)
+  add(a, b)
 }
