@@ -14,6 +14,6 @@ function divide(a, b) {
   return a / b;
 }
 
-function icn(n) {
-  return n + 1
+function icn(a) {
+  return a + 1
 }
