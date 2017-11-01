@@ -1,3 +1,4 @@
 function add() {
-  number(a, b)
+  number(a) = 1
+  number(b) = 2
 }
